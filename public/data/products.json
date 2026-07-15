@@ -1,0 +1,457 @@
+[
+  {
+    "_id": "1",
+    "title": "Product 1",
+    "price": 10,
+    "category": "electronics",
+    "stock": 5,
+    "rating": 1,
+    "featured": true,
+    "tags": [
+      "electronics",
+      "brand1"
+    ]
+  },
+  {
+    "_id": "2",
+    "title": "Product 2",
+    "price": 37,
+    "category": "furniture",
+    "stock": 18,
+    "rating": 2,
+    "featured": false,
+    "tags": [
+      "furniture",
+      "brand2"
+    ]
+  },
+  {
+    "_id": "3",
+    "title": "Product 3",
+    "price": 64,
+    "category": "clothing",
+    "stock": 31,
+    "rating": 3,
+    "featured": false,
+    "tags": [
+      "clothing",
+      "brand3"
+    ]
+  },
+  {
+    "_id": "4",
+    "title": "Product 4",
+    "price": 91,
+    "category": "books",
+    "stock": 44,
+    "rating": 4,
+    "featured": false,
+    "tags": [
+      "books",
+      "brand4"
+    ]
+  },
+  {
+    "_id": "5",
+    "title": "Product 5",
+    "price": 118,
+    "category": "sports",
+    "stock": 57,
+    "rating": 5,
+    "featured": false,
+    "tags": [
+      "sports",
+      "brand1"
+    ]
+  },
+  {
+    "_id": "6",
+    "title": "Product 6",
+    "price": 145,
+    "category": "electronics",
+    "stock": 70,
+    "rating": 1,
+    "featured": true,
+    "tags": [
+      "electronics",
+      "brand2"
+    ]
+  },
+  {
+    "_id": "7",
+    "title": "Product 7",
+    "price": 172,
+    "category": "furniture",
+    "stock": 83,
+    "rating": 2,
+    "featured": false,
+    "tags": [
+      "furniture",
+      "brand3"
+    ]
+  },
+  {
+    "_id": "8",
+    "title": "Product 8",
+    "price": 199,
+    "category": "clothing",
+    "stock": 96,
+    "rating": 3,
+    "featured": false,
+    "tags": [
+      "clothing",
+      "brand4"
+    ]
+  },
+  {
+    "_id": "9",
+    "title": "Product 9",
+    "price": 226,
+    "category": "books",
+    "stock": 109,
+    "rating": 4,
+    "featured": false,
+    "tags": [
+      "books",
+      "brand1"
+    ]
+  },
+  {
+    "_id": "10",
+    "title": "Product 10",
+    "price": 253,
+    "category": "sports",
+    "stock": 122,
+    "rating": 5,
+    "featured": false,
+    "tags": [
+      "sports",
+      "brand2"
+    ]
+  },
+  {
+    "_id": "11",
+    "title": "Product 11",
+    "price": 280,
+    "category": "electronics",
+    "stock": 135,
+    "rating": 1,
+    "featured": true,
+    "tags": [
+      "electronics",
+      "brand3"
+    ]
+  },
+  {
+    "_id": "12",
+    "title": "Product 12",
+    "price": 307,
+    "category": "furniture",
+    "stock": 148,
+    "rating": 2,
+    "featured": false,
+    "tags": [
+      "furniture",
+      "brand4"
+    ]
+  },
+  {
+    "_id": "13",
+    "title": "Product 13",
+    "price": 334,
+    "category": "clothing",
+    "stock": 161,
+    "rating": 3,
+    "featured": false,
+    "tags": [
+      "clothing",
+      "brand1"
+    ]
+  },
+  {
+    "_id": "14",
+    "title": "Product 14",
+    "price": 361,
+    "category": "books",
+    "stock": 174,
+    "rating": 4,
+    "featured": false,
+    "tags": [
+      "books",
+      "brand2"
+    ]
+  },
+  {
+    "_id": "15",
+    "title": "Product 15",
+    "price": 388,
+    "category": "sports",
+    "stock": 187,
+    "rating": 5,
+    "featured": false,
+    "tags": [
+      "sports",
+      "brand3"
+    ]
+  },
+  {
+    "_id": "16",
+    "title": "Product 16",
+    "price": 415,
+    "category": "electronics",
+    "stock": 200,
+    "rating": 1,
+    "featured": true,
+    "tags": [
+      "electronics",
+      "brand4"
+    ]
+  },
+  {
+    "_id": "17",
+    "title": "Product 17",
+    "price": 442,
+    "category": "furniture",
+    "stock": 13,
+    "rating": 2,
+    "featured": false,
+    "tags": [
+      "furniture",
+      "brand1"
+    ]
+  },
+  {
+    "_id": "18",
+    "title": "Product 18",
+    "price": 469,
+    "category": "clothing",
+    "stock": 26,
+    "rating": 3,
+    "featured": false,
+    "tags": [
+      "clothing",
+      "brand2"
+    ]
+  },
+  {
+    "_id": "19",
+    "title": "Product 19",
+    "price": 496,
+    "category": "books",
+    "stock": 39,
+    "rating": 4,
+    "featured": false,
+    "tags": [
+      "books",
+      "brand3"
+    ]
+  },
+  {
+    "_id": "20",
+    "title": "Product 20",
+    "price": 523,
+    "category": "sports",
+    "stock": 52,
+    "rating": 5,
+    "featured": false,
+    "tags": [
+      "sports",
+      "brand4"
+    ]
+  },
+  {
+    "_id": "21",
+    "title": "Product 21",
+    "price": 550,
+    "category": "electronics",
+    "stock": 65,
+    "rating": 1,
+    "featured": true,
+    "tags": [
+      "electronics",
+      "brand1"
+    ]
+  },
+  {
+    "_id": "22",
+    "title": "Product 22",
+    "price": 577,
+    "category": "furniture",
+    "stock": 78,
+    "rating": 2,
+    "featured": false,
+    "tags": [
+      "furniture",
+      "brand2"
+    ]
+  },
+  {
+    "_id": "23",
+    "title": "Product 23",
+    "price": 604,
+    "category": "clothing",
+    "stock": 91,
+    "rating": 3,
+    "featured": false,
+    "tags": [
+      "clothing",
+      "brand3"
+    ]
+  },
+  {
+    "_id": "24",
+    "title": "Product 24",
+    "price": 631,
+    "category": "books",
+    "stock": 104,
+    "rating": 4,
+    "featured": false,
+    "tags": [
+      "books",
+      "brand4"
+    ]
+  },
+  {
+    "_id": "25",
+    "title": "Product 25",
+    "price": 658,
+    "category": "sports",
+    "stock": 117,
+    "rating": 5,
+    "featured": false,
+    "tags": [
+      "sports",
+      "brand1"
+    ]
+  },
+  {
+    "_id": "26",
+    "title": "Product 26",
+    "price": 685,
+    "category": "electronics",
+    "stock": 130,
+    "rating": 1,
+    "featured": true,
+    "tags": [
+      "electronics",
+      "brand2"
+    ]
+  },
+  {
+    "_id": "27",
+    "title": "Product 27",
+    "price": 712,
+    "category": "furniture",
+    "stock": 143,
+    "rating": 2,
+    "featured": false,
+    "tags": [
+      "furniture",
+      "brand3"
+    ]
+  },
+  {
+    "_id": "28",
+    "title": "Product 28",
+    "price": 739,
+    "category": "clothing",
+    "stock": 156,
+    "rating": 3,
+    "featured": false,
+    "tags": [
+      "clothing",
+      "brand4"
+    ]
+  },
+  {
+    "_id": "29",
+    "title": "Product 29",
+    "price": 766,
+    "category": "books",
+    "stock": 169,
+    "rating": 4,
+    "featured": false,
+    "tags": [
+      "books",
+      "brand1"
+    ]
+  },
+  {
+    "_id": "30",
+    "title": "Product 30",
+    "price": 793,
+    "category": "sports",
+    "stock": 182,
+    "rating": 5,
+    "featured": false,
+    "tags": [
+      "sports",
+      "brand2"
+    ]
+  },
+  {
+    "_id": "31",
+    "title": "Product 31",
+    "price": 820,
+    "category": "electronics",
+    "stock": 195,
+    "rating": 1,
+    "featured": true,
+    "tags": [
+      "electronics",
+      "brand3"
+    ]
+  },
+  {
+    "_id": "32",
+    "title": "Product 32",
+    "price": 847,
+    "category": "furniture",
+    "stock": 8,
+    "rating": 2,
+    "featured": false,
+    "tags": [
+      "furniture",
+      "brand4"
+    ]
+  },
+  {
+    "_id": "33",
+    "title": "Product 33",
+    "price": 874,
+    "category": "clothing",
+    "stock": 21,
+    "rating": 3,
+    "featured": false,
+    "tags": [
+      "clothing",
+      "brand1"
+    ]
+  },
+  {
+    "_id": "34",
+    "title": "Product 34",
+    "price": 901,
+    "category": "books",
+    "stock": 34,
+    "rating": 4,
+    "featured": false,
+    "tags": [
+      "books",
+      "brand2"
+    ]
+  },
+  {
+    "_id": "35",
+    "title": "Product 35",
+    "price": 928,
+    "category": "sports",
+    "stock": 47,
+    "rating": 5,
+    "featured": false,
+    "tags": [
+      "sports",
+      "brand3"
+    ]
+  }
+]
